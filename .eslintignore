@@ -36,3 +36,13 @@ files/en-us/web/api/headers/delete/index.md
 files/en-us/web/api/formdata/delete/index.md
 files/en-us/web/api/fontfaceset/delete/index.md
 files/en-us/web/api/elementinternals/states/index.md
+files/en-us/web/api/element/replacewith/index.md
+files/en-us/web/api/element/remove/index.md
+files/en-us/web/api/element/prepend/index.md
+files/en-us/web/api/element/append/index.md
+files/en-us/web/api/customstateset/delete/index.md
+files/en-us/web/api/css_painting_api/guide/index.md
+files/en-us/web/api/cookiestore/delete/index.md
+files/en-us/web/api/cachestorage/delete/index.md
+files/en-us/web/api/cache/delete/index.md
+files/en-us/web/api/abortsignal/abort/index.md
