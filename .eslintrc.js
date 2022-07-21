@@ -13,4 +13,9 @@ module.exports = {
     browser: true,
     node: true,
   },
+  rules: {
+    // "arrow-parens": "error",
+    // "prefer-template": "error",
+    // "template-curly-spacing": "error",
+  },
 };
