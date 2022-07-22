@@ -40,6 +40,8 @@ const signal = controller.signal;
 const downloadBtn = document.querySelector('.download');
 const abortBtn = document.querySelector('.abort');
 
+:(
+
 downloadBtn.addEventListener('click', fetchVideo);
 
 abortBtn.addEventListener('click', function() {
