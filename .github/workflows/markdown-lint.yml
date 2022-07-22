@@ -5,9 +5,9 @@ on:
     branches:
       - main
       - eslint-config-gh-action # for testing only
-    paths:
-      - '*.md'
-      - .github/workflows/markdown-lint.yml
+    # paths:
+    #   - '*.md'
+    #   - .github/workflows/markdown-lint.yml
 
 
 jobs:
