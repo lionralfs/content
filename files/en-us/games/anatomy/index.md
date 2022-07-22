@@ -130,6 +130,7 @@ This value is not too useful alone, since it is relative to a fairly uninteresti
 
 ```js
 var tNow = window.performance.now();
+:(
 ```
 
 Back to the topic of the main loop. You will often want to know when your main function was invoked. Because this is common, `window.requestAnimationFrame()` always provides a `DOMHighResTimeStamp` to callbacks as an argument when they are executed. This leads to another enhancement to our previous main loops.
