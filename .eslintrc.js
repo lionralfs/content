@@ -15,7 +15,9 @@ module.exports = {
   },
   rules: {
     // "arrow-parens": "error",
-    // "prefer-template": "error",
-    // "template-curly-spacing": "error",
+    // "no-var": "error",
+    // "prefer-const": "error",
+    "prefer-template": "error",
+    "template-curly-spacing": "error",
   },
 };
