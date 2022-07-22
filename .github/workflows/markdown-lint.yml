@@ -37,4 +37,5 @@ jobs:
 
       - name: List all changed files
         run: |
+          yarn --frozen-lockfile
           npx eslint ${{ steps.changed-files.outputs.all_changed_files }} --format stylish
