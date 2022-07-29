@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "eslint": "^8.20.0",
-    "eslint-plugin-markdown": "^3.0.0"
+    "eslint-plugin-markdown": "https://github.com/lionralfs/eslint-plugin-markdown.git#custom-ignore"
   }
 }

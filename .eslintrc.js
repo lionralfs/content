@@ -42,13 +42,6 @@ module.exports = {
       },
     },
     {
-      // see https://github.com/mdn/content/pull/18665#discussion_r928087658
-      files: ["files/en-us/web/api/layoutshiftattribution/index.md/*.js"],
-      rules: {
-        "arrow-body-style": "off",
-      },
-    },
-    {
       // turn some rules off for polyfills
       files: [
         "files/en-us/web/api/cssstylesheet/insertrule/index.md/3_3.js",
